@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="08HP2_0wAXsavsD8T7e-" name="Page-1">
+        <mxGraphModel dx="1183" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-17" edge="1" parent="1" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;rounded=0;curved=1;curveGeometry=1;" value="resultado del combate&lt;div&gt;ranking de la arena&lt;/div&gt;">
+                    <mxGeometry relative="1" x="0.003" y="27" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="220" y="340"/>
+                        </Array>
+                        <mxPoint x="321.7127813065679" y="324.7430828040149" as="sourcePoint"/>
+                        <mxPoint x="160" y="285" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-22" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-1" style="edgeStyle=none;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=1;curveGeometry=1;" target="vnmo3HNH1gvxPX3Sr1V4-5" value="copia de&amp;nbsp;&lt;div&gt;seguridad&lt;/div&gt;&lt;div&gt;de partidas&lt;/div&gt;">
+                    <mxGeometry relative="1" x="-0.0848" y="-32" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="360" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=20;" value="RPG Manager" vertex="1">
+                    <mxGeometry height="160" width="200" x="320" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontStyle=1" value="Jugador" vertex="1">
+                    <mxGeometry height="60" width="120" x="40" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontStyle=1" value="Game master" vertex="1">
+                    <mxGeometry height="60" width="120" x="680" y="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontStyle=1" value="Servicio de correo" vertex="1">
+                    <mxGeometry height="60" width="120" x="360" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fontStyle=1" value="Servicio de respaldo en la nube" vertex="1">
+                    <mxGeometry height="60" width="120" x="360" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-16" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.074;entryY=0.251;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;curved=1;curveGeometry=1;" target="vnmo3HNH1gvxPX3Sr1V4-1" value="&lt;div&gt;datos de registro&lt;/div&gt;accion de combate&lt;div&gt;datos del personaje&lt;/div&gt;&lt;div&gt;credenciales de acceso&lt;/div&gt;">
+                    <mxGeometry relative="1" x="-0.0137" y="38" as="geometry">
+                        <mxPoint x="-3" as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="220"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-19" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-3" style="html=1;entryX=0.995;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;curved=1;curveGeometry=1;" target="vnmo3HNH1gvxPX3Sr1V4-1" value="datos de la mision">
+                    <mxGeometry relative="1" x="-0.0015" y="-13" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-20" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.003;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;curved=1;curveGeometry=1;" target="vnmo3HNH1gvxPX3Sr1V4-3" value="reporte de actividad&amp;nbsp;&lt;div&gt;de jugadores&lt;/div&gt;">
+                    <mxGeometry relative="1" x="-0.0103" y="-23" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="600" y="340"/>
+                        </Array>
+                        <mxPoint x="550" y="380" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-21" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-1" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vnmo3HNH1gvxPX3Sr1V4-4" value="correo de&lt;div&gt;confirmacion&lt;/div&gt;">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="vnmo3HNH1gvxPX3Sr1V4-23" edge="1" parent="1" source="vnmo3HNH1gvxPX3Sr1V4-5" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.68;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;curved=1;curveGeometry=1;" target="vnmo3HNH1gvxPX3Sr1V4-1" value="estadisticas/&lt;div&gt;resultado de&amp;nbsp;&lt;br&gt;partidas&lt;/div&gt;">
+                    <mxGeometry relative="1" x="0.1018" y="-48" as="geometry">
+                        <mxPoint as="offset"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
