@@ -9,19 +9,15 @@
 
 ### 1. Diagrama de Contexto (Nivel 0)
 Muestra el sistema RPG Manager y sus interacciones con las entidades externas.
-![Diagrama de Contexto](diagramas-drawio/01_contexto_rpg.svg)
 
 ### 2. Diagrama de Casos de Uso
 Describe las funcionalidades principales que los actores (Jugador, Game Master, etc.) pueden realizar en el sistema.
-![Diagrama de Casos de Uso](diagramas-drawio/02_casos_uso_rpg.svg)
 
 ### 3. Diagrama de Actividades: CU-07 Combatir en la Arena
 Flujo paso a paso detallando los carriles de responsabilidad, decisiones y paralelismo durante el combate.
-![Actividades CU-07](diagramas-drawio/03_actividades_cu07.svg)
 
 ### 4. Diagrama de Actividades: CU-03 Crear Personaje
 Flujo paso a paso detallando la validación de nombres, elección de clase y creación del inventario.
-![Actividades CU-03](diagramas-drawio/03_actividades_cu03.svg)
 
 ---
 
